@@ -9,7 +9,7 @@ services:
   app:
     build: .
     environment:
-      - REDIS_URL=redis://redis:6379/0
+
       - SECRET_KEY=super-secret-change-this
       - APP_NAME=Smart API Rate Limiter
     ports:
