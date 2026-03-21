@@ -3,7 +3,7 @@
 A production-grade FastAPI service implementing per-user JWT rate limiting with Redis, analytics, Prometheus/Grafana metrics, and Docker deployment.
 
 ## 🌐 Live Demo
-https://your-app-name.onrender.com/docs
+https://api-rate-limiter-coz0.onrender.com/docs
 
 ## Folder Structure
 
